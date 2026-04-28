@@ -1,0 +1,10 @@
+# Global Code Owners
+* @google-labs-jules @graphite-app
+
+# PR Security & Compliance
+* @aikido-pr-checks
+
+# Agent & Deployment Code
+/src/agents/ @google-labs-jules
+/src/deployments/ @google-labs-jules @graphite-app
+/.github/PULL_REQUEST_TEMPLATE/ @ParzivalWins
